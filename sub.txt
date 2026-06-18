@@ -13,4 +13,5 @@ trojan://MiTiVPN@104.21.18.41:443?security=tls&sni=linkkon-w.ir&fp=chrome&alpn=h
 vless://fa937ff5-89cc-49a4-9bf9-da2b7285070d@104.18.152.231:2053?encryption=none&security=tls&sni=bulghari.appleseraj.ir&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=bulghari.appleseraj.ir&path=%2F&mode=auto#MY-FREE%206
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:80?encryption=none&security=none&type=ws&host=pon.antalmani.mm.am&path=%2F#DELL%201
 vless://f7e3ff36-276c-4477-b6d4-47257500d869@162.159.38.119:80?encryption=none&security=none&type=ws&host=pon.antalmani.mm.am&path=%2F#DELL%202
+socks://UjM4WWNqMWJuR1F0RldQN2NMVU1neUdDOlRlbDZAU29vblRlYW0@ch-zur.pvdata.host:1080#HAJ%20KAMI
 
