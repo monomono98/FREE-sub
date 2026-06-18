@@ -1,7 +1,6 @@
 trojan://humanity@216.24.57.1:443?security=tls&sni=www.calmloud.com&insecure=0&allowInsecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&path=%2Fassignment#MY_FREE%202
 trojan://humanity@216.24.57.1:443?security=tls&sni=www.calmloud.com&insecure=0&allowInsecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&path=%2Fassignment#MY-FREE%203
 vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=ws&host=pan1.global.ssl.fastly.net&path=%2F#MY-FREE%208
-vless://9a1ca418-134f-4750-b97a-55ea81135742@140.248.185.253:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=ws&host=pan1.global.ssl.fastly.net&path=%2F#MY-FREE%2011
 vless://1791b0db-8b39-4520-8df7-20889fca1afb@sv3.azparadox.ir:8880?encryption=none&security=none&type=ws&host=azsv3.ir5ive.ir&path=%2F#MY-FREE%2015
 vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=ws&host=pan1.global.ssl.fastly.net&path=%2F#MY%20FREE%20VIP
 vless://9a1ca418-134f-4750-b97a-55ea81135742@167.82.101.251:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=ws&host=pan1.global.ssl.fastly.net&path=%2F#MY-FREE%20VIP%201
