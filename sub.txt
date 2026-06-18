@@ -23,5 +23,11 @@ vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?encryption=none
 vless://4fcb91d0-bbc4-480c-b362-216d4a79bb5c@fast.cd-tur4.ir:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=ws&host=pan3.global.ssl.fastly.net&path=%2F#ZAHEDE%20PAKDAMAN
 vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=ws&host=pan1.global.ssl.fastly.net&path=%2F#MOOORCHE%20DARE
 vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?encryption=none&security=none&type=ws&host=khodroshop.ir&path=%2F#CAFE%202
+vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?encryption=none&security=none&type=ws&host=khodroshop.ir&path=%2F#CAFE%203
+vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?encryption=none&security=none&type=ws&host=khodroshop.ir&path=%2F#CAFE%204
+vless://9a1ca418-134f-4750-b97a-55ea81135742@fast.cd-tur4.ir:443?encryption=none&security=tls&sni=default.ssl.fastly.net&insecure=0&allowInsecure=0&type=ws&host=pan1.global.ssl.fastly.net&path=%2F#CAFE%205
+vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?encryption=none&security=tls&sni=sh.mojaz-persian-music.ir&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#TV%201
+vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.162:8443?encryption=none&security=tls&sni=cji.new-persian-song.ir&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#TV%202
+vless://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.101:8443?encryption=none&security=tls&sni=cji.new-persian-song.ir&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=xhttp&path=%2F&mode=auto#TV%203
 
 
