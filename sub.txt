@@ -10,6 +10,12 @@ vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?encryption=none&
 vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?encryption=none&security=none&type=ws&host=khodroshop.ir&path=%2F#CAFE%202
 vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?encryption=none&security=none&type=ws&host=khodroshop.ir&path=%2F#CAFE%203
 vless://7dfdbb4b-5bf7-4503-b2c0-4ef05922dcb9@psf-1.zdshop.ir:80?encryption=none&security=none&type=ws&host=khodroshop.ir&path=%2F#CAFE%204
+vless://c430370a-4b00-4686-bfb9-36ef1b989dcd@18.185.25.147:443?encryption=none&security=none&type=tcp&headerType=none#S1
+vless://2f4295de-e9b4-4adc-a105-3793566d2bf4@ir.mdmionline.top:8443?encryption=mlkem768x25519plus.native.0rtt.LzYUWthMnuD5BlBNwd-kJLBgaiJFj_Go03dcGLJmADA&security=tls&sni=new.mdmionline.top&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=ir.mdmionline.top&path=%2Flop&mode=auto#S2
+vless://f1ee343f-ceaf-4374-89a9-833ed71b4a78@s3.cvbesty.ir:48127?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=IV870by48fv-uhnpCvJRrCCtahUqNAuvkPE4rE9sPEE&sid=abc950ff&spx=%2F&type=tcp&headerType=none#S9
+vless://546bd638-8aeb-0f83-9a31-8be7c5ce814a@ffdownload.dlc-bazigame.ir:8880?encryption=none&security=none&type=httpupgrade&host=cdn-nl1.akssoldier.top&path=%2F#S10
+vless://2f4295de-e9b4-4adc-a105-3793566d2bf4@ir.mdmionline.top:8443?encryption=mlkem768x25519plus.native.0rtt.LzYUWthMnuD5BlBNwd-kJLBgaiJFj_Go03dcGLJmADA&security=tls&sni=new.mdmionline.top&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=ir.mdmionline.top&path=%2Flop&mode=auto#S4
+vless://a3ea555b-4232-4d30-8e05-06b66d5b149f@thomas.proxy.rlwy.net:56975?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=DCF6D84ftXxm8CSwlK1OWOJStT4uPFiHIwEZwrEyjRE&sid=0123456789abcdef&type=tcp&headerType=none#S5
 
 
 
