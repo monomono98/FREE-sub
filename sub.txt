@@ -8,6 +8,18 @@ vless://2f4295de-e9b4-4adc-a105-3793566d2bf4@ir.mdmionline.top:8443?encryption=m
 vless://f1ee343f-ceaf-4374-89a9-833ed71b4a78@s3.cvbesty.ir:48127?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=IV870by48fv-uhnpCvJRrCCtahUqNAuvkPE4rE9sPEE&sid=abc950ff&spx=%2F&type=tcp&headerType=none#S9
 vless://546bd638-8aeb-0f83-9a31-8be7c5ce814a@ffdownload.dlc-bazigame.ir:8880?encryption=none&security=none&type=httpupgrade&host=cdn-nl1.akssoldier.top&path=%2F#S10
 vless://2f4295de-e9b4-4adc-a105-3793566d2bf4@ir.mdmionline.top:8443?encryption=mlkem768x25519plus.native.0rtt.LzYUWthMnuD5BlBNwd-kJLBgaiJFj_Go03dcGLJmADA&security=tls&sni=new.mdmionline.top&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=ir.mdmionline.top&path=%2Flop&mode=auto#S4
+vless://278f52f9-99fc-447c-94d0-ada8f9800703@denewscabinetfly.com:446?encryption=none&security=reality&sni=deepl.com&fp=chrome&pbk=FHjXqTeS4Fj6okH5b8VOsSPdfLVQmwHcI4a9NYrWYFU&sid=d7abeb515312dc2f&type=grpc&authority=deepl.com&serviceName=deepl.com&mode=gun#F1
+vless://8684c32b-2ffb-4b75-802a-76f90fb15cba@denewscabinetfly.com:446?encryption=none&security=reality&sni=deepl.com&fp=chrome&pbk=FHjXqTeS4Fj6okH5b8VOsSPdfLVQmwHcI4a9NYrWYFU&sid=d7abeb515312dc2f&type=grpc&authority=deepl.com&serviceName=deepl.com&mode=gun#F2
+vless://c430370a-4b00-4686-bfb9-36ef1b989dcd@18.185.25.147:443?encryption=none&security=none&type=tcp&headerType=none#F3
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=enterprisekitten.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#F4
+vless://36284b89-03c0-4ec4-9ed9-e20e19d136cf@66.33.23.120:443?encryption=none&security=tls&sni=relay-production-9e5f.up.railway.app&fp=chrome&alpn=http%2F1.1%2Ch2&insecure=0&allowInsecure=0&type=xhttp&host=relay-production-9e5f.up.railway.app&path=%2Fapi&mode=auto#Q1
+vless://AlfredConfig@199.232.237.245:443?encryption=none&security=tls&sni=global.fastly.com&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=xhttp&host=alfred-13.global.ssl.fastly.net&path=%2F&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#Q2
+vless://36284b89-03c0-4ec4-9ed9-e20e19d136cf@66.33.23.106:443?encryption=none&security=tls&sni=relay-production-9e5f.up.railway.app&fp=chrome&alpn=http%2F1.1%2Ch2&insecure=0&allowInsecure=0&type=xhttp&host=relay-production-9e5f.up.railway.app&path=%2Fapi&mode=auto#Q3
+trojan://humanity@216.24.57.1:443?security=tls&sni=www.calmloud.com&insecure=0&allowInsecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&path=%2Fassignment#Q4
+vless://c2305d2a-43ac-4820-9cd8-8408daf4eb0e@ro-1.reshebnik24.ru:9444?encryption=none&security=tls&sni=ro-1.reshebnik24.ru&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ro-1.reshebnik24.ru&path=%2Fws#Z1
+trojan://humanity@216.24.57.1:443?security=tls&sni=www.calmloud.com&insecure=0&allowInsecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&path=%2Fassignment#Z2
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.142.142:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=%2F#Z3
+vless://30fcec7f-164b-465c-87f4-b93784a6056b@185.226.142.142:8880?encryption=none&security=none&type=ws&host=azsv1.drpingservice.com&path=%2F#Z3
 
 
 
