@@ -7,4 +7,5 @@ vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?encryption=none&se
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?encryption=none&security=tls&sni=chopin.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=chopin.adaspoloandco.com&path=%2Fdownload.php#sh1
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?encryption=none&security=tls&sni=vangoghhh.info&insecure=0&allowInsecure=0&type=ws&host=vangoghhh.info&path=%2Frdfgtws#sh3
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@162.159.38.119:443?encryption=none&security=tls&sni=terazhediii.info&insecure=0&allowInsecure=0&type=ws&host=terazhediii.info&path=%2Fhdgrbws#VIP1
+vless://596b215c-3743-4893-b24a-4e396c4ab80f@158.160.198.58:443?encryption=mlkem768x25519plus.random.0rtt.QTfJnUbk6kpgCG8PVYGWL0dKYXVEm4Oax8_cqtmCjk0&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=DQW3GuEvmRgUQnnKdHjSZhgaEDcu_07Ijuqibd72-0I&sid=ca7dd27a72c7c203&type=tcp&headerType=none#VIP%203
 
