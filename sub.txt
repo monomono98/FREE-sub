@@ -1,6 +1,3 @@
-vless://18167dd6-2c24-4f6b-a416-64bac693127a@104.143.0.254:443?encryption=none&security=reality&sni=optim.tildacdn.pub&fp=chrome&pbk=fvpPs49YdpPvrAr7xyminj-wzGaRnB7CRVfYDalewkY&sid=db78dafb7cd886fb&type=grpc&authority=&serviceName=ebl&mode=gun#MY-FREE
-vless://973b0f5b-602b-4ab5-8411-ac7879b0e9d3@www.speedtest.net:8880?encryption=none&security=none&type=httpupgrade&host=cccccCcdn7-pro.postshup.ir&path=%2F#MY-FREE
-vless://973b0f5b-602b-4ab5-8411-ac7879b0e9d3@45.130.125.207:2086?encryption=none&security=none&type=xhttp&host=JjjjjJ.cafearen.ir&path=%2F&mode=auto#MY-FREE
 vless://973b0f5b-602b-4ab5-8411-ac7879b0e9d3@forallpanel.srtongston.ir:8880?encryption=none&security=none&type=httpupgrade&host=aaaaaaaaaaab.postshup.ir&path=%2F#MY-FREE
 vless://18167dd6-2c24-4f6b-a416-64bac693127a@104.143.0.254:443?encryption=none&security=reality&sni=optim.tildacdn.pub&fp=chrome&pbk=fvpPs49YdpPvrAr7xyminj-wzGaRnB7CRVfYDalewkY&sid=db78dafb7cd886fb&type=grpc&authority=&serviceName=ebl&mode=gun#MY-FREE
 vless://973b0f5b-602b-4ab5-8411-ac7879b0e9d3@cd3.postshup.ir:8880?encryption=none&security=none&type=httpupgrade&host=nnnnnnnn.postshup.ir&path=%2F#MY-FREE
