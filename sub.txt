@@ -1,6 +1,2 @@
 vless://097f9732-6dc9-40ef-a181-13a931314364@87.236.208.10:80?encryption=none&security=none&type=tcp&headerType=none#MY-FREE
-vless://097f9732-6dc9-40ef-a181-13a931314364@87.236.208.10:80?encryption=none&security=none&type=tcp&headerType=none#MY-FREE
-vless://097f9732-6dc9-40ef-a181-13a931314364@87.236.208.10:80?encryption=none&security=none&type=tcp&headerType=none#MY-FREE
-vless://097f9732-6dc9-40ef-a181-13a931314364@87.236.208.10:80?encryption=none&security=none&type=tcp&headerType=none#MY-FREE
-vless://097f9732-6dc9-40ef-a181-13a931314364@87.236.208.10:80?encryption=none&security=none&type=tcp&headerType=none#MY-FREE
-vless://097f9732-6dc9-40ef-a181-13a931314364@87.236.208.10:80?encryption=none&security=none&type=tcp&headerType=none#MY-FREE
+
