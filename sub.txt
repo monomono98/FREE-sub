@@ -1,4 +1,5 @@
-vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@159.69.193.221:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#MY-FREE
+vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.51.180:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#MY-FREE
+vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@62.238.63.51:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#MY-FREE
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@159.69.193.221:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com%2F%3FJOIN_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#MY-FREE
 vless://c877d001-de9f-43d4-87c0-b7474a662424@179.237.76.191:2020?encryption=none&security=reality&sni=g.co&fp=chrome&pbk=qhizbkaunsBTS7KH4ctsyxQBapZ3Qj5Y7Jr6J2r0HAU&sid=b9fbd4c6&spx=%2F54510860ea05bff&type=tcp&headerType=none#MY-FREE
 vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@167.233.47.127:1234?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#MY-FREE
