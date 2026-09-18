@@ -32,3 +32,8 @@ vless://b01b01a6-d736-400c-b866-226383e0df72@91.107.154.227:443?encryption=none&
 vless://4ac5e981-145c-4068-bc92-df7a55a929fe@servconfmmmddd.ir:443?encryption=none&security=tls&sni=servconfmmmddd.ir&fp=chrome&alpn=http%2F1.1&type=ws&host=servconfmmmddd.ir&path=%2Fvl-ws#MY-FREE
 vless://b2141c97-76af-ff6f-839b-70a53e23aad9@130.49.77.6:443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&type=xhttp&path=%2F&mode=auto#MY-FREE
 vless://d8d23e60-d5aa-4556-b513-875e1e85d924@music.navard.net:80?encryption=none&security=none&type=tcp&headerType=http#MY-FREE
+vless://b2141c97-76af-ff6f-839b-70a53e23aad9@140.235.168.5:443?encryption=none&security=reality&sni=www.lenovo.com&fp=chrome&pbk=tICt4RT_Rw9KAU8hIf05_fzAMZnfUUyMfE-Ept6zcBY&type=xhttp&path=%2F&mode=auto#MY-FREE
+vless://8df2e661-6f46-471b-9133-7fc13a0daa35@lzdfpdqehh.erau.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.eitaa.com&fp=chrome&pbk=jDoORbrtDrvAlFSo19CJbc99C4ev8SAo1MwczSUt9no&sid=91e6&spx=%2Fa67kctS1nyJ&type=tcp&headerType=none#MY-FREE
+vless://b2141c97-76af-ff6f-839b-70a53e23aad9@103.175.79.4:443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=JeVpfwIwteGa8xfysPJUzrbHgmOPyLGomRqyH8Pi7W0&type=xhttp&path=%2F&mode=auto#MY-FREE
+vless://9fa5b96f-02be-48f4-ab38-31a5f24c19ea@130.185.122.160:80?encryption=none&security=none&type=tcp&headerType=http&host=play-apps-features.googleusercontent.com#MY-FREE
+vless://89bab277-3e30-4e0d-86df-5829fbbd6152@91.107.157.186:56539?encryption=mlkem768x25519plus.random.0rtt.swY_aKEuuHUHKO0BHVV2uot-UFbtrXpLWr7g8uZk0xk&security=none&type=tcp&headerType=http&path=%2F#MY-FREE
