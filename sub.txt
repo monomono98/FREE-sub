@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443?#MY-FREE
+
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@153.121.36.102:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=ios&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a&type=tcp&headerType=none#MY-FREE
 vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@ber1d.lynch.ir:4040?encryption=none&security=reality&sni=www.actionvfx.com&fp=chrome&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&sid=73693dea6faae051&type=tcp&headerType=none#MY-FREE
 vless://09bd2157-fe00-4819-9f52-4d29a1be911b@01-ir.napsternetx.ir:1014?encryption=mlkem768x25519plus.native.0rtt.BOLMAq_SyQtLDwDv0dBPhyvR4fQxVOGFpK_HRRN4A1Q&security=none&type=xhttp&host=myket.ir&path=%2Fassets&mode=stream-up&extra=%7B%22sessionIDKey%22%3A%22100-1000%22%7D#MY-FREE
