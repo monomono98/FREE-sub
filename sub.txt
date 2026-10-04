@@ -5,3 +5,5 @@ vless://469677f4-acd1-4f1e-82d1-1f92704c0ee7@finl1.povrak.ir:28095?encryption=ml
 vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@ber1d.lynch.ir:4040?encryption=none&security=reality&sni=www.actionvfx.com&fp=chrome&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&sid=73693dea6faae051&type=tcp&headerType=none#MY-FREE
 vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@91.107.171.44:4040?encryption=none&security=reality&sni=www.actionvfx.com&fp=firefox&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&sid=73693dea6faae051&type=tcp&headerType=none#MY-FREE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443?#MY-FREE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443?#MY-FREE
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rusbid.de&fp=chrome&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&type=tcp&headerType=none#MY-FREE
