@@ -1,15 +1,9 @@
+vless://63ad98c8-f8c2-d771-336d-12bc5906aee2@dl2.armanstore22.ir:32989?encryption=none&security=tls&fp=chrome&alpn=h2&type=ws&path=%2F%3Fed%3D2048#MY-FREE
+vless://63ad98c8-f8c2-d771-336d-12bc5906aee2@dl2.armanstore22.ir:32989?encryption=none&security=tls&sni=dl2.armanstore22.ir&fp=chrome&alpn=h2&type=ws&path=%2F%3Fed%3D2048#MY-FREE
 vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@91.107.171.44:4040?encryption=none&security=reality&sni=www.actionvfx.com&fp=firefox&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&sid=73693dea6faae051&type=tcp&headerType=none#MY-FREE
-vless://469677f4-acd1-4f1e-82d1-1f92704c0ee7@finl3.povrak.ir:26474?encryption=mlkem768x25519plus.native.0rtt.BOvEnh5jCDxg6tnJyW1sTZStVYBuVMUvzME-VBm6CEI&security=none&type=tcp&headerType=none#MY-FREE
-vless://5e2e35f9-512b-482e-ad12-bce69590f8d4@167.82.76.8:443?encryption=mlkem768x25519plus.native.0rtt.utmP6WzJcusvh2bhbu1aSLgzVMzmWQ_TklG3xFU4Jk0&security=tls&sni=ssl.fastly.com&fp=firefox&type=xhttp&host=ded1.global.ssl.fastly.net&path=%2Fv2&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#MY-FREE
-vless://469677f4-acd1-4f1e-82d1-1f92704c0ee7@finl1.povrak.ir:28095?encryption=mlkem768x25519plus.native.0rtt.VuFxON-WTmoLTTMoAjvx_rTJ-R4rDaGfM0iDKn8sJTg&security=none&type=tcp&headerType=none#MY-FREE
 vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@ber1d.lynch.ir:4040?encryption=none&security=reality&sni=www.actionvfx.com&fp=chrome&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&sid=73693dea6faae051&type=tcp&headerType=none#MY-FREE
-vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@91.107.171.44:4040?encryption=none&security=reality&sni=www.actionvfx.com&fp=firefox&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&sid=73693dea6faae051&type=tcp&headerType=none#MY-FREE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443?#MY-FREE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443?#MY-FREE
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rusbid.de&fp=chrome&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&type=tcp&headerType=none#MY-FREE
 vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@kayoor.hivaphone.ir:2045?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net&path=%2F#MY-FREE
-vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@ber1d.lynch.ir:4040?encryption=none&security=reality&sni=www.actionvfx.com&fp=chrome&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&sid=73693dea6faae051&type=tcp&headerType=none#MY-FREE
-vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@k4direct.lynch.ir:2052?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net&path=%2F#MY-FREE
 vless://14203978-7699-4404-bc06-b245ad7132a5@turkeycewqiwcck214clk12clkjalsfcjalksdjclkqwjcl4k12jckleqwr.soft355.ir:32210?encryption=mlkem768x25519plus.native.0rtt.ZdJDuC0NAeRdPHNVOGwd5G25eEDVSzhJLAnKdAecfzg&security=none&type=tcp&headerType=none#MY-FREE
 vless://14203978-7699-4404-bc06-b245ad7132a5@germanycwecrwb345c345c43b5v43.soft355.ir:32210?encryption=mlkem768x25519plus.native.0rtt.ZdJDuC0NAeRdPHNVOGwd5G25eEDVSzhJLAnKdAecfzg&security=none&type=tcp&headerType=none#MY-FREE
 vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@143.246.41.146:25895?encryption=none&security=reality&sni=www.samsung.com&fp=firefox&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&type=tcp&headerType=none#MY-FREE
