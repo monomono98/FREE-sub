@@ -10,3 +10,7 @@ vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@pl-waw.dontblockmepls.com:2063?encr
 vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@kayoor.hivaphone.ir:2045?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net&path=%2F#MY-FREE
 vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@ber1d.lynch.ir:4040?encryption=none&security=reality&sni=www.actionvfx.com&fp=chrome&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&sid=73693dea6faae051&type=tcp&headerType=none#MY-FREE
 vless://d7e99010-e7c3-4978-9d30-2e63882dcfbe@k4direct.lynch.ir:2052?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net&path=%2F#MY-FREE
+vless://14203978-7699-4404-bc06-b245ad7132a5@turkeycewqiwcck214clk12clkjalsfcjalksdjclkqwjcl4k12jckleqwr.soft355.ir:32210?encryption=mlkem768x25519plus.native.0rtt.ZdJDuC0NAeRdPHNVOGwd5G25eEDVSzhJLAnKdAecfzg&security=none&type=tcp&headerType=none#MY-FREE
+vless://14203978-7699-4404-bc06-b245ad7132a5@germanycwecrwb345c345c43b5v43.soft355.ir:32210?encryption=mlkem768x25519plus.native.0rtt.ZdJDuC0NAeRdPHNVOGwd5G25eEDVSzhJLAnKdAecfzg&security=none&type=tcp&headerType=none#MY-FREE
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@143.246.41.146:25895?encryption=none&security=reality&sni=www.samsung.com&fp=firefox&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&type=tcp&headerType=none#MY-FREE
+vless://0e6cd6ca-fba2-4b86-923c-f0a021f7ad15@142.132.140.143:1003?encryption=none&security=none&type=tcp&headerType=none#MY-FREE
