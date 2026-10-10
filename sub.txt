@@ -1,12 +1,6 @@
-vless://75b517db-1f97-4bda-a479-863d988c31a0@64.188.83.148:2083?encryption=none&security=tls&sni=speedtestmark.com&alpn=http%2F1.1&type=ws&path=%2Fvless-ws#MY-FREE
-vless://75b517db-1f97-4bda-a479-863d988c31a0@2.27.254.78:2083?encryption=none&security=tls&sni=speedtestmark.com&alpn=http%2F1.1&type=ws&path=%2Fvless-ws#MY-FREE
-vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@93.188.184.150:443?encryption=none&security=reality&sni=ru-1-2.unturned-rust-dead.lol&fp=random&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&type=grpc&authority=&serviceName=ru-api&mode=gun#MY-FREE
-vless://75b517db-1f97-4bda-a479-863d988c31a0@5.1.40.3:2083?encryption=none&security=tls&sni=speedtestmark.com&alpn=http%2F1.1&type=ws&path=%2Fvless-ws#MY-FREE
-vless://eb022475-2c2b-49ee-a482-56e9c71eca8c@sub.sd.noafra.ir:6586?encryption=none&security=none&type=tcp&headerType=http&host=store.steampowered.com&path=%2F#MY-FREE
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp3.nztvpn.com&fp=firefox&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287&type=tcp&headerType=none#MY-FREE
-vless://75b517db-1f97-4bda-a479-863d988c31a0@92.242.165.10:2083?encryption=none&security=tls&sni=speedtestmark.com&alpn=http%2F1.1&type=ws&path=%2Fvless-ws#MY-FREE
-vless://75b517db-1f97-4bda-a479-863d988c31a0@92.242.165.20:2083?encryption=none&security=tls&sni=speedtestmark.com&alpn=http%2F1.1&type=ws&path=%2Fvless-ws#MY-FREE
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp3.nztvpn.com&fp=firefox&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287&type=tcp&headerType=none#MY-FREE
-vless://9f8a42c4-edd1-4d1e-a793-754b85b3e0f2@ss-19-g1-d3a1b6919f6b.contenttransferportal.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ss-19-g1-d3a1b6919f6b.contenttransferportal.online&fp=random&pbk=3WKoZ9V3OLA_QuOcqTtGurNFlrDL60LlzVvVP_EjV3c&sid=3ef49eb261f27eeb&type=tcp&headerType=none#MY-FREE
-vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@140.225.208.60:2083?encryption=none&security=tls&sni=speedtestmark.com&fp=random&alpn=http%2F1.1&type=ws&path=%2Fvless-ws#MY-FREE
-
+vless://5b44c4dc-3b6b-4e61-96fa-6e89b349e6c4@199.232.78.159:443?encryption=none&security=tls&sni=safa.fastly.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=pannn1.global.ssl.fastly.net&path=%2F#MY-FREE
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=lucasjow.us.ci&path=%2F%3FTelegram---bored_vpn#MY-FREE
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#MY-FREE
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed#MY-FREE
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=lucasjow.us.ci&path=%2F%3FTelegram---DailyConfigs---DailyConfigs---DailyConfigs#MY-FREE
