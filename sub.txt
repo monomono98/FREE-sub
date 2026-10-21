@@ -1,11 +1,4 @@
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?#MY-FREE
-vless://c6362720-0931-4b91-b187-d8ecf3149734@212.74.39.236:10002?encryption=none&security=none&type=tcp&headerType=none#MY-FREE
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999?#MY-FREE
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.21.89.41:443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=chrome&ech=dolts.ir%2Budp%3A%2F%2F1.1.1.1&type=ws&host=u.srilankangrill.online&path=%2F#MY-FREE
+vless://8c0dd77e-bfc2-4818-88d4-d9a72ec8c1ee@kebabyumyum.net:8443?encryption=none&security=tls&sni=kebabyumyum.net&fp=firefox&type=ws&path=%2Fvless#MY-FREE
 vless://dc7d45c9-c942-41e3-b880-9a7fd5b64e2f@146.75.59.186:443?encryption=none&security=tls&sni=firefox.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=copy_az_channel_NUFiLTER_a1i.global.ssl.fastly.net.&path=%2F#MY-FREE
 vless://dc7d45c9-c942-41e3-b880-9a7fd5b64e2f@wwww.qarvian.ir:443?encryption=none&security=tls&sni=firefox.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=copy_az_channel_NUFiLTER_a11ia.global.ssl.fastly.net.&path=%2F%3FTELEGRAM-TOOTFFARANGI#MY-FREE
 vless://dc7d45c9-c942-41e3-b880-9a7fd5b64e2f@wwww.qarvian.ir:443?encryption=none&security=tls&sni=firefox.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=copy_az_channel_NUFiLTER_a11ia.global.ssl.fastly.net.&path=%2F#MY-FREE
-vless://dc7d45c9-c942-41e3-b880-9a7fd5b64e2f@199.232.78.159:443?encryption=none&security=tls&sni=firefox.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=copy_az_channel_NUFiLTER_a1ia.global.ssl.fastly.net.&path=%2F%3FTELEGRAM-TOOTFFARANGI#MY-FREE
-vless://dc7d45c9-c942-41e3-b880-9a7fd5b64e2f@146.75.59.186:443?encryption=none&security=tls&sni=firefox.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=copy_az_channel_NUFiLTER_a1i.global.ssl.fastly.net.&path=%2F%3FTELEGRAM-TOOTFFARANGI#MY-FREE
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?encryption=none&security=none&type=tcp&headerType=none#MY-FREE
-vless://dc7d45c9-c942-41e3-b880-9a7fd5b64e2f@199.232.78.159:443?encryption=none&security=tls&sni=firefox.com&pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&type=ws&host=copy_az_channel_NUFiLTER_a1ia.global.ssl.fastly.net.&path=%2F#MY-FREE
