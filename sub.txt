@@ -1,3 +1,16 @@
+vless://116e7d57-afcf-4558-be0a-01e80fe6cd31@rm2.rmastore.ir:443?encryption=none&security=reality&sni=www.amazonaws-china.com&fp=chrome&pbk=ni-BSyQElC9A5Z3IX8QgJm-ppnt8--j9mCOl5Zs9ySM&sid=c33dbd1c2c3e7afc&type=tcp&headerType=none#MY-FREE
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@151.241.19.36:19999?#MY-FREE
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.154:443?security=tls&sni=www.indyourperfectremotetechjobfromthecomfortofhome.com&type=tcp&headerType=none#MY-FREE
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@151.241.19.29:19999?#MY-FREE
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.208:443?security=tls&sni=resources.yourultimateprofessionalcareerhub.com&type=tcp&headerType=none#MY-FREE
+vless://98aa35fc-7d2f-4744-a91b-7e33b4fdd9c8@hw14.roghanmo.com:465?encryption=none&security=tls&sni=hw14.roghanmo.com.&type=ws&host=hw14.roghanmo.com&path=%2F#MY-FREE
+vless://fb1d2d8a-d9bd-496f-9d5f-f179cbd00123@p2real1.greewebservices.ir:1310?encryption=none&security=reality&sni=play.googleapis.com&fp=ios&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3&type=tcp&headerType=none#MY-FREE
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.215:443?security=tls&sni=courses.indyourperfectremotetechjobfromthecomfortofhome.com&fp=chrome&type=tcp&headerType=none#MY-FREE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MWMtaTVTU0ZYUDhuNGcxV2JjMEw5Z1g4Mng1TzJRYQ@185.4.115.147:8044?#MY-FREE
+vless://98aa35fc-7d2f-4744-a91b-7e33b4fdd9c8@91.107.243.131:465?encryption=none&security=tls&sni=hw14.roghanmo.com&type=ws&host=hw14.roghanmo.com&path=%2F#MY-FREE
+vless://7040f78b-c724-4551-9e53-7c2c3badfbdf@116.203.51.137:21219?encryption=none&security=reality&sni=amp-api-edge.music.apple.com&fp=chrome&pbk=gQgldNx-RpH-4XBqNqflJ0bgWQDRIgfrfJqqKlg_iXI&sid=244280e0c0&spx=%2F14cf244c71042a2&type=tcp&headerType=none#MY-FREE
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.215:443?security=tls&sni=courses.indyourperfectremotetechjobfromthecomfortofhome.com&type=tcp&headerType=none#MY-FREE
+vless://98aa35fc-7d2f-4744-a91b-7e33b4fdd9c8@hw14.roghanmo.com:465?encryption=none&security=tls&sni=hw14.roghanmo.com.&fp=chrome&alpn=http%2F1.1&type=ws&host=hw14.roghanmo.com.&path=%2F#MY-FREE
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.29:443?security=tls&sni=blog.iloverussia2026.com&type=tcp&headerType=none#MY-FREE
 vless://98aa35fc-7d2f-4744-a91b-7e33b4fdd9c8@91.107.243.131:465?encryption=none&security=tls&sni=hw14.roghanmo.com&fp=firefox&type=ws&host=hw14.roghanmo.com&path=%2F#MY-FREE
 vless://98aa35fc-7d2f-4744-a91b-7e33b4fdd9c8@hw14.roghanmo.com:465?encryption=none&security=tls&sni=hw14.roghanmo.com.&fp=chrome&alpn=http%2F1.1&type=ws&host=hw14.roghanmo.com.&path=%2F#MY-FREE
