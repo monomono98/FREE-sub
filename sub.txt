@@ -1,3 +1,7 @@
 vless://64c5f924-1c24-44a5-acff-2e3ebcd2f807@188.114.98.0:443?encryption=none&security=tls&sni=nl29.dr-ping.ir&fp=unsafe&alpn=h3%2Ch2%2Chttp%2F1.1&fm=%7B%22tcp%22%3A&type=xhttp&host=nl29.dr-ping.ir&path=%2F&mode=auto#MY-FREE
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?security=tls&sni=browseseniorrolesandenhanceyourcareertoday.com&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&path=%2F#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40Raydikalx%20%7C%2005C446
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?security=tls&sni=browseseniorrolesandenhanceyourcareertoday.com&type=tcp&headerType=none#US%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%40Raydikalx%20%7C%20796A40
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?security=tls&sni=browseseniorrolesandenhanceyourcareertoday.com&type=tcp&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&path=%2F#MY-FREE
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?security=tls&sni=browseseniorrolesandenhanceyourcareertoday.com&type=tcp&headerType=none#MY-FREE
+vless://f9cb35cd-e905-4b8a-8188-44873be88c2f@n4.topingr.ir:443?encryption=none&security=tls&sni=static.zovip2.ir&fp=chrome&alpn=http%2F1.1&type=ws&host=static.zovip2.ir&path=%2Fapi%2Fv3%2Fpulse#MY-FREE
+vless://f9cb35cd-e905-4b8a-8188-44873be88c2f@n4.topingr.ir:443?encryption=none&security=tls&sni=static.zovip2.ir&type=ws&host=static.zovip2.ir&path=%2Fapi%2Fv3%2Fpulse#MY-FREE
+vless://1ca12389-0d86-4197-a79a-49d24539ce05@p11real1.greewebservices.ir:1020?encryption=none&security=reality&sni=play.googleapis.com&pbk=xwbp4EcOtus1W5Au4XCJJbCl9jCb4DwGgYQYEwUDqTY&sid=354e34396eaa89ab&type=tcp&headerType=none#MY-FREE
+vless://1ca12389-0d86-4197-a79a-49d24539ce05@p11real2.greewebservices.ir:1030?encryption=none&security=reality&sni=play.googleapis.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=9b60d3&type=tcp&headerType=none#MY-FREE
